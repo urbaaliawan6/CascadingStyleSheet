@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+</style>
+</head>
+<body>
+<table id="id1" onclick="this.style.border='dotted'">
+<tr  id="id1" onclick="this.style.color='red'">
+<td>Mango</td>
+</tr>
+
+<tr id="id2" onclick="this.style.color='yellow'">
+<td>Orange</td>
+</tr>
+
+<tr id="id3" onclick="this.style.color='green'">
+<td>Apple</td>
+</tr>
+
+<tr id="id4" onclick="this.style.color='gray'">
+<td>Peach</td>
+</tr>
+
+<tr  id="id5" onclick="this.style.color='blue'">
+<td>Water Mellon</td>
+</tr>
+
+<tr  id="id6" onclick="this.style.color='pink'">
+<td>Papaya</td>
+</tr>
+
+<tr  id="id7" onclick="this.style.color='red'">
+<td>Cherry</td>
+</tr>
+
+<tr  id="id8" onclick="this.style.color='lightgray'">
+<td>Banana</td>
+</tr>
+
+</table>
+</body>
+</html>

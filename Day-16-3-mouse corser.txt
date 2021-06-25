@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mouse over</title>
+</head>
+<body>
+<h1 onmouseover="style.color='red'" onmouseout="style.color='green'">Hello Mouse Over Me</h1>
+</body>
+</html>

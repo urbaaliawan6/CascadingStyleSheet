@@ -1,0 +1,35 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+p.dotted{
+border-style:dotted;
+width:10%;
+height:15%;
+}
+p.dash{
+border-style:dash;
+width:10%;
+height:15%;
+}
+p.solid{
+border-style:solid;
+width:10%;
+height:15%;
+}
+p.double{
+border-style:double;
+width:10%;
+height:15%;
+}
+
+</style>
+<title>Week5</title>
+</head>
+<body>
+<p class="dotted">This is Week 5.</p>
+<p class="dash">This is Week 5.</p>
+<p class="solid">This is Week 5.</p>
+<p class="double">This is Week 5.</p>
+</html>
+</body>
