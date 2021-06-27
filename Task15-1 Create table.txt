@@ -1,0 +1,47 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+table{
+border:1px solid black;
+border-collapse:collapse;
+}
+td,th{
+padding:25px;
+text-align:left;
+width:10px;
+border:2px solid black;
+}
+
+</style>
+<title>Table</title>
+</head>
+<body>
+<table>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+<th>Age</th> 
+</tr>
+
+<tr>
+<td>Priya</td>
+<td>Sharma</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>Arun</td>
+<td>Singh</td>
+<td>32</td>
+</tr>
+
+<tr>
+<td>Sam</td>
+<td>Waston</td>
+<td>41</td>
+</tr>
+
+</table>
+</body>
+</html>
